@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XucXichPhePha/Roblox-FPS-Booster-Script/refs/heads/main/fps_booster.lua"))()
